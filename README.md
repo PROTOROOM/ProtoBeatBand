@@ -1,3 +1,3 @@
 # ProtoBeatBand
 
-by PROTOROOM <http://protoroom.kr>
+by PROTOROOM <protoroom.kr>
