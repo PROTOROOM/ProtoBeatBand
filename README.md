@@ -1,2 +1,3 @@
 # ProtoBeatBand
-BTBT
+
+by PROTOROOM <http://protoroom.kr>
